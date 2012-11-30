@@ -1,0 +1,1 @@
+All terminal commands should be exactly as in instructions.
